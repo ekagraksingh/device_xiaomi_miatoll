@@ -1,0 +1,38 @@
+[
+  {
+    "repository": "ekagraksingh/device_xiaomi_sm6250-common",
+    "target_path": "device/xiaomi/sm-6250-common",
+    "branch": "corvus",
+    "remote": "github"
+  },
+  {
+    "repository": "ekagraksingh/vendor_qcom_opensource_vibrator",
+    "target_path": "vendor/qcom/opensource/vibrator",
+    "branch": "r",
+    "remote": "github"
+  },
+  {
+    "repository": "SonalSingh18/android_kernel_xiaomi_sm6250",
+    "target_path": "kernel/xiaomi/sm6250",
+    "branch": "eleven",
+    "remote": "github"
+  },
+  {
+    "repository": "ekagraksingh/vendor_xiaomi_miatoll",
+    "target_path": "vendor/xiaomi/miatoll",
+    "branch": "11",
+    "remote": "github"
+  },
+  {
+    "repository": ekagraksingh/vendor_xiaomi_sm6250-common",
+    "target_path": "vendor/xiaomi/sm6250-common",
+    "branch": "11",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-18.0",
+    "remote": "github"
+  }
+]
